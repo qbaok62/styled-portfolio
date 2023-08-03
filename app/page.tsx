@@ -5,8 +5,8 @@ import {
   Hero,
   Projects,
   Technologies,
+  Timeline,
 } from "@/components/organisms";
-import { Timeline } from "@/components/templates";
 
 export default function Home() {
   return (

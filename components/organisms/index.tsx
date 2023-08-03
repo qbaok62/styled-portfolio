@@ -5,3 +5,4 @@ export * from "./hero";
 export * from "./nav-drop-down";
 export * from "./projects";
 export * from "./technologies";
+export * from "./timeLine";

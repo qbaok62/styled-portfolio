@@ -19,9 +19,7 @@ export const Hero = (props: IHeroProps) => {
           My Personal Portfolio
         </SectionTitle>
         <SectionText>
-          The purpose of JavaScript Mastery is to help aspiring and established
-          developers to take their development skills to the next level and
-          build awesome apps.
+          {"Well, There's nothning to say yet. I'll be right back"}
         </SectionText>
         <CustomedButton onClick={onClick}>Learn More</CustomedButton>
       </LeftSection>

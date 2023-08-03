@@ -19,7 +19,7 @@ export const Technologies = () => (
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
       {
-        "I've worked with a range a technologies in the web development world. From Back-end To Design"
+        "I've worked with a range a technologies in the web development world. From Back-end To Front-end"
       }
     </SectionText>
     <List>
@@ -31,7 +31,8 @@ export const Technologies = () => (
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             Experiece with <br />
-            React.js
+            Reactjs <br />
+            Nextjs
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -43,7 +44,9 @@ export const Technologies = () => (
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             Experience with <br />
-            Node and Databases
+            Nodejs <br />
+            ExpressJs <br />
+            Nestjs
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -52,10 +55,13 @@ export const Technologies = () => (
           <DiZend size="3rem" />
         </picture>
         <ListContainer>
-          <ListTitle>UI/UX</ListTitle>
+          <ListTitle>Database Management</ListTitle>
           <ListParagraph>
             Experience with <br />
-            tools like Figma
+            MySQL <br />
+            Microsoft SQL Server <br />
+            PostgressQL <br />
+            mongodb
           </ListParagraph>
         </ListContainer>
       </ListItem>
